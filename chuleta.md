@@ -78,6 +78,7 @@ EN REMOTO(CON GITHUB)
 	Traer los cambios de un remoto a un local: git pull
 	Resolver conflictos de cambios: Buscar en uno de los archivos los conflictos y resolviendolos manualmente en cada archivo.
 	Crear un commit en el main remoto desde el local: git fakeTeamwork <commit>
+	Borrar una rama remota (pero no la local): git push origin --delete <nombrerama>
 
 
 
